@@ -1,0 +1,13 @@
+
+target
+*.log
+*.jar
+.settings/*
+.idea
+*.iml
+.project
+.classpath
+.class
+
+.class
+target
